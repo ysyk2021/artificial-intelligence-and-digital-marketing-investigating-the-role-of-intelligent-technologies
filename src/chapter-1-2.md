@@ -1,5 +1,3 @@
-Brief History of AI in Digital Marketing
-=================================================================
 
 Artificial intelligence (AI) has been around for decades, but it is only in recent years that its potential has been fully realized in digital marketing. In this chapter, we will explore the brief history of AI in digital marketing and how it has evolved to become an essential tool for marketers today.
 

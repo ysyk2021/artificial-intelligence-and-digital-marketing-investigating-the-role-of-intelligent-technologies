@@ -1,5 +1,3 @@
-Collaboration between Industry and Academia
-===========================================================================================
 
 The potential for artificial intelligence (AI) in digital marketing is vast, with opportunities for innovation and growth in areas such as personalized experiences, hyper-targeted advertising, and predictive analytics. However, realizing the full potential of these technologies will require ongoing collaboration between industry and academia.
 

@@ -1,5 +1,3 @@
-Chapter 2: The Impact of AI in Digital Marketing
-================================================
 
 Artificial intelligence (AI) has had a significant impact on the field of digital marketing, enabling companies to automate processes, personalize customer experiences, and optimize advertising campaigns. In this chapter, we will explore these impacts in further detail.
 

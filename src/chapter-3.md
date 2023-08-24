@@ -1,5 +1,3 @@
-Chapter 3: AI and Consumer Behavior
-===================================
 
 Artificial intelligence (AI) has revolutionized the way businesses understand and interact with their customers. In this chapter, we will explore how AI is used to analyze consumer behavior, including predictive analytics, sentiment analysis, and recommender systems.
 

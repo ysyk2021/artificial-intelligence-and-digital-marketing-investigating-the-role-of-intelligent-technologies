@@ -1,5 +1,3 @@
-Definition of Artificial Intelligence
-==============================================================
 
 Artificial intelligence (AI) is a term that is now widely used in discussions of technology and innovation, but its definition can vary depending on who you ask. In this chapter, we will explore the concept of AI and provide a clear definition of what it means in the context of digital marketing.
 

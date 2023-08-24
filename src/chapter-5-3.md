@@ -1,5 +1,3 @@
-Preventing Bias in AI Algorithms
-===============================================================================================
 
 As artificial intelligence (AI) becomes more prevalent in digital marketing, ensuring ethical considerations in AI algorithms is crucial. In this chapter, we will explore the importance of preventing bias in AI algorithms and strategies for promoting ethical practices in digital marketing.
 

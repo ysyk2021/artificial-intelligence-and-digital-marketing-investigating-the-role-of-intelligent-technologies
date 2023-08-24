@@ -1,4 +1,3 @@
-# Conclusion
 
 Artificial intelligence (AI) has transformed the field of digital marketing, enabling companies to better understand their customers and deliver personalized experiences. In this chapter, we will reflect on the impact of AI in digital marketing and issue a call to action for the future of intelligent technologies in online advertising.
 

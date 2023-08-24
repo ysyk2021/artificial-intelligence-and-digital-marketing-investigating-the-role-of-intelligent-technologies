@@ -1,5 +1,3 @@
-Chapter 6: Future Directions and Opportunities
-==============================================
 
 As artificial intelligence (AI) continues to evolve, the potential for its impact on digital marketing is immense. In this chapter, we will explore some of the future directions and opportunities for AI in digital marketing, including emerging trends, the role of marketers in promoting AI literacy, and collaboration between industry and academia.
 

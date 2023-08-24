@@ -1,5 +1,3 @@
-Ensuring Transparency in Automated Decision Making
-=================================================================================================================
 
 As artificial intelligence (AI) becomes more prevalent in digital marketing, it is important to ensure transparency in automated decision making processes. This chapter will explore the importance of transparency in AI, the challenges of achieving transparency, and strategies for ensuring transparency in digital marketing.
 

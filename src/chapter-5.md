@@ -1,5 +1,3 @@
-Chapter 5: Ethical Considerations in AI and Digital Marketing
-=============================================================
 
 As the use of artificial intelligence (AI) becomes increasingly prevalent in digital marketing, it is important to consider the ethical implications of this technology. In this chapter, we will explore some of the key ethical considerations surrounding AI and digital marketing, including privacy concerns, transparency in automated decision making, and preventing bias in AI algorithms.
 

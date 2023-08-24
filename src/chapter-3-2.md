@@ -1,5 +1,3 @@
-Sentiment Analysis for Brand Perception
-============================================================================
 
 Artificial intelligence (AI) technologies are transforming the way that companies approach digital marketing. One area where AI can have a significant impact is in understanding consumer behavior and sentiment towards brands. In this chapter, we will explore how AI-based sentiment analysis can help in evaluating brand perception among consumers.
 

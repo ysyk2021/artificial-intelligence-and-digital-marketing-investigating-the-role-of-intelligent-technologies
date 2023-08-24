@@ -1,5 +1,3 @@
-Programmatic Advertising
-=======================================================================================
 
 Programmatic advertising is a real-world application of artificial intelligence (AI) that is transforming the way that companies buy and sell digital ads. By using machine learning algorithms, programmatic advertising can automate the process of ad buying and optimize campaigns for better performance. In this chapter, we will explore how programmatic advertising works and how it is being used in digital marketing.
 
