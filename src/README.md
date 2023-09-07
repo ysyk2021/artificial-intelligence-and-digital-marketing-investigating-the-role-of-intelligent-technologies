@@ -12,3 +12,7 @@ The third section of the book will examine the challenges of implementing AI in 
 Overall, this book aims to provide a comprehensive overview of the role of AI in digital marketing and how it is transforming online advertising. It will be of interest to marketers, advertisers, policymakers, and anyone interested in the impact of AI on the digital marketing industry.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
